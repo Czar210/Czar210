@@ -1,6 +1,6 @@
 ## Hey there I am Cesar! 👋
 
-<img src="https://github.com/Czar210/Czar210/assets/66441784/39221b3d-d0c0-4a11-a5fd-cbebcf4a2740" width="1200" height="300">
+<img src="https://github.com/Czar210/Czar210/assets/66441784/39221b3d-d0c0-4a11-a5fd-cbebcf4a2740" width="1000" height="200">
 
 
 ---
