@@ -6,8 +6,7 @@
 
 ---
 
-[![Czar210's GitHub stats](https://github-readme-stats.vercel.app/api?username=Czar210&show_icons=true&theme=default&width=250&height=500)](https://github.com/Czar210/github-readme-stats)
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Czar210" width="250" height="500">
+[![Czar210's GitHub stats](https://github-readme-stats.vercel.app/api?username=Czar210&show_icons=true&theme=default&width=1050&height=500)](https://github.com/Czar210/github-readme-stats)
 
 
 ---
