@@ -4,10 +4,6 @@
 <img src = "https://github.com/Czar210/Czar210/assets/66441784/99a56b09-81c2-4b4d-aafd-ec2eaae51544" width="1050" height="200">
 
 
----
-
-[![Czar210's GitHub stats](https://github-readme-stats.vercel.app/api?username=Czar210&show_icons=true&theme=default&width=2050&height=500)](https://github.com/Czar210/github-readme-stats)
-
 
 ---
 
@@ -17,3 +13,8 @@
 - 💬 Ask me about Python, Data Structures, Linear Algebra, Card Games and Other Nerd's Stuff
 - 📫 How to reach me: cesarsibila210@gmail.com
 - 😄 Pronouns: He/Him
+
+
+---
+
+[![Czar210's GitHub stats](https://github-readme-stats.vercel.app/api?username=Czar210&show_icons=true&theme=default&width=2050&height=500)](https://github.com/Czar210/github-readme-stats)
