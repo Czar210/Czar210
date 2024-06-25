@@ -4,10 +4,11 @@
 
 ---
 
-[![Czar210's GitHub stats](https://github-readme-stats.vercel.app/api?username=Czar210)](https://github.com/Czar210/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Czar210)](https://github.com/Czar210/github-readme-stats)
+[![Czar210's GitHub stats](https://github-readme-stats.vercel.app/api?username=Czar210&show_icons=true&theme=default&width=600&height=400)](https://github.com/Czar210/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Czar210&layout=compact&width=600&height=400)](https://github.com/Czar210/github-readme-stats)
 
 ---
+
 
 - 🔭 I’m currently working on a personal project called Artemis
 - 🌱 I’m currently learning the base of Data Science
