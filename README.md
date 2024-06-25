@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Czar210/Czar210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
@@ -10,4 +8,6 @@
 - 💬 Ask me about Python, Data Structures, Linear Algebra, Card Games and Other Nerd's Stuff
 - 📫 How to reach me: cesarsibila210@gmail.com
 - 😄 Pronouns: He/Him
+<!--
+**Czar210/Czar210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
