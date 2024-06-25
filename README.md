@@ -8,7 +8,7 @@
 
 [![Czar210's GitHub stats](https://github-readme-stats.vercel.app/api?username=Czar210&show_icons=true&theme=default&width=500&height=800)](https://github.com/Czar210/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Czar210)](https://github.com/Czar210/github-readme-stats)
-<img src = "https://github.com/Czar210/Czar210/assets/66441784/3bc4f2dd-cca8-4d3e-9626-cb0836a20681" width="300" height="300">
+<img src = "https://github.com/Czar210/Czar210/assets/66441784/3bc4f2dd-cca8-4d3e-9626-cb0836a20681" width="150" height="150">
 
 ---
 
