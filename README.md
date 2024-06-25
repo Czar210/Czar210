@@ -4,8 +4,8 @@
 
 ---
 
-[![Czar210's GitHub stats](https://github-readme-stats.vercel.app/api?username=Czar210&show_icons=true&theme=default&width=1000&height=800)](https://github.com/Czar210/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Czar210&layout=compact&width=1000&height=800)](https://github.com/Czar210/github-readme-stats)
+[![Czar210's GitHub stats](https://github-readme-stats.vercel.app/api?username=Czar210&show_icons=true&theme=default&width=500&height=800)](https://github.com/Czar210/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Czar210&layout=compact&width=1200&height=800)](https://github.com/Czar210/github-readme-stats)
 
 ---
 
