@@ -1,7 +1,7 @@
 ## Hey there I am Cesar! 👋
 
 
-<img src = "https://github.com/Czar210/Czar210/assets/66441784/99a56b09-81c2-4b4d-aafd-ec2eaae51544" width="1100" height="150">
+<img src = "https://github.com/Czar210/Czar210/assets/66441784/99a56b09-81c2-4b4d-aafd-ec2eaae51544" width="1050" height="200">
 
 
 ---
