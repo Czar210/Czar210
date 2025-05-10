@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on a secret!
 - 🌱 I’m currently learning the base of Data Science
-- 💬 Ask me about Python, Data Structures, Linear Algebra and you can try Other Nerd's Stuff
+- 💬 Ask me about Python, Data Structures, APIs, Linear Algebra and maybe other Nerd's stuff
 - 📫 How to reach me: cesarsibila210@gmail.com
 - 😄 Pronouns: He/Him
 
