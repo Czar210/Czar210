@@ -8,7 +8,7 @@
 ---
 
 
-- 🔭 I’m currently working on a Research for my university and a couple articles!
+- 🔭 I’m currently working at Izii
 - 🌱 I’m currently learning the base of Data Science
 - 💬 Ask me about Python, Data Structures, APIs, Linear Algebra, Cloud Computing and General Knoledge
 - 📫 How to reach me: cesarsibila210@gmail.com
