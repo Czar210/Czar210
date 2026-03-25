@@ -1,8 +1,8 @@
 # Hey there, I'm César Sibila! 👋
 
-**Data & AI Engineer | RAG Architect | [cite_start]GNN Researcher** [cite: 2, 6, 7]
+**Data & AI Engineer | RAG Architect | GNN Researcher**
 
-[cite_start]I am a Data & AI Engineer focused on building scalable data pipelines, automating complex processes, and deploying production-grade AI systems[cite: 5]. [cite_start]Currently, I'm an Intern at **Izii Soluções Tecnológicas** [cite: 9] [cite_start]and the Tech Lead for **Project Metis**[cite: 17].
+I am a Data & AI Engineer focused on building scalable data pipelines, automating complex processes, and deploying production-grade AI systems. Currently, I'm an Intern at **Izii Soluções Tecnológicas** and the Tech Lead for **Project Metis**.
 
 ---
 
@@ -25,9 +25,9 @@
 
 ### 🌟 Featured Repositories
 
-- [cite_start]**⚡ [Metis](https://github.com/Czar210/metis-backend):** An AI assistant focused on RAG to help players understand League of Legends deeply[cite: 17, 18].
+- **⚡ [Metis](https://github.com/Czar210/metis-backend):** An AI assistant focused on RAG to help players understand League of Legends deeply.
 - **🗺️ [Travel-Salesman-Problem](https://github.com/Czar210/Travel-Salesman-Problem):** A collection of tools and algorithms implemented to solve the classic TSP.
-- [cite_start]**🃏 [Ze_Pelintra](https://github.com/Czar210/Ze-Pelintra):** A study on Parallel Computing and MCTS applied to the card game "Truco"[cite: 30, 31, 32].
+- **🃏 [Ze_Pelintra](https://github.com/Czar210/Ze-Pelintra):** A study on Parallel Computing and MCTS applied to the card game "Truco".
 - **🖥️ [dynamic-sql-editor](https://github.com/Czar210/dynamic-sql-editor):** An open-source Headless CMS template for agile creation of modern admin panels.
 
 ---
@@ -42,7 +42,7 @@
 ---
 
 ### 📫 Connect with me:
-- [cite_start]**LinkedIn:** [linkedin.com/in/cesarsibila](https://linkedin.com/in/cesarsibila) [cite: 3]
-- [cite_start]**Email:** [cesarsibila210@gmail.com](mailto:cesarsibila210@gmail.com) [cite: 3]
+- **LinkedIn:** [linkedin.com/in/cesarsibila](https://linkedin.com/in/cesarsibila)
+- **Email:** [cesarsibila210@gmail.com](mailto:cesarsibila210@gmail.com)
 
 *"Turning raw data into strategic intelligence."*
