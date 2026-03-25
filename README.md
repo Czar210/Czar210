@@ -26,7 +26,8 @@ I am a Data & AI Engineer focused on building scalable data pipelines, automatin
 ### 🌟 Featured Repositories
 
 - **⚡ [Metis](https://github.com/Czar210/metis-backend):** An AI assistant focused on RAG to help players understand League of Legends deeply. Stack: Llama 3, OpenRAG (Langflow + OpenSearch + Docling), FastAPI, Next.js.
-- **🕵️ [cdia-m7-PUCSP](https://github.com/Czar210/cdia-m7-PUCSP):** Fake news detection on Bluesky via network topology using Graph Convolutional Networks (GCNs) and the AT Protocol firehose. Stack: PyTorch Geometric, sentence-transformers, networkx, FastAPI.
+- **🎓 [cdia-m7-PUCSP](https://github.com/Czar210/cdia-m7-PUCSP):** Coursework and research notes from CDIA Module 7 at PUC-SP, covering GNNs, FastAPI, and fake news detection on Bluesky (TCC research hosted at [devdebdeb/tcc-gnn-fake-news](https://github.com/devdebdeb/tcc-gnn-fake-news)).
+- **🖥️ [dynamic-sql-editor](https://github.com/Czar210/dynamic-sql-editor):** An open-source Headless CMS template for agile creation of modern admin panels.
 - **🗺️ [Travel-Salesman-Problem](https://github.com/Czar210/Travel-Salesman-Problem):** A collection of tools and algorithms implemented to solve the classic TSP.
 - **🃏 [Ze_Pelintra](https://github.com/Czar210/Ze-Pelintra):** A study on Parallel Computing and MCTS applied to the card game "Truco".
 
