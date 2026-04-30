@@ -27,28 +27,5 @@ I am a Data & AI Engineer focused on building scalable data pipelines, automatin
 ### 🌟 Featured Repositories
 
 - **⚡ [Metis](https://github.com/Czar210/metis-backend):** A full-stack LoL analytics platform (p-0.9.22). Features champion pages with build/matchup/synergy analytics, z-score tier ranking, match scoreboard with interactive timeline charts, a custom design system with PT/EN i18n, and a Medallion data pipeline (Riot API → Cloudflare R2 → Supabase). AI-powered tactical coaching via **Gemini 2.5 Flash** with RAG guardrails; an agentic hybrid-search pipeline (KNN + BM25/RRF) via OpenRAG (Langflow + OpenSearch + Docling) is in active development. Stack: FastAPI, Next.js, Polars, pgvector, GitHub Actions.
-- **🕵️ [cdia-m7-PUCSP](https://github.com/Czar210/cdia-m7-PUCSP):** PUCSP CDIA M7 coursework. Highlights: (1) **TCC** — fake news detection on Bluesky via network topology using GCNs and the AT Protocol firehose (PyTorch Geometric, sentence-transformers, networkx); (2) **MLOps pipeline** — synthetic data generators for credit/churn/fraud domains, scikit-learn models trained and published to [HuggingFace](https://huggingface.co/Zaras210) via GitHub Actions; (3) production-grade FastAPI service with Pydantic v2, routers, and ML inference endpoint.
-- **🗄️ [Atlas](https://github.com/Czar210/dynamic-sql-editor):** Open-source headless CMS for modern admin panels, born from a Scientific Initiation (IC) project. Build typed tables visually — each schema becomes a real physical DB table. Features multi-tenant isolation, 3-tier access (master/admin/moderator), JWT + QR Auth, 6 themes × 4 modes, SQL/CSV/XLSX import, and public API toggle. Stack: Next.js, FastAPI, SQLAlchemy, Neon Postgres. Part of **Mora Org**.
-- **✍️ [Glyph](https://github.com/Czar210/PEG):** Open-source desktop software for visual authoring and advanced typography. Two tracks: **Core** (stable lettering engine with FFmpeg rendering, clipping masks, per-character control, organic filters) and **Obsidian** (experimental AI video inpainting via VOID Engine). Cross-platform (Windows/Linux). Stack: Tauri (Rust), React, FFmpeg. Part of **Mora Org**.
-- **📋 [LattesDirector](https://github.com/Czar210/LattesDirector):** Native desktop app (Tauri v2) that syncs your event calendar with your Lattes academic CV via a local AI agent (OpenClaw). Monitors diffs between what happened and what's registered, and proposes updates for your approval — no manual bureaucracy. Stack: Rust, React 19, Zustand, Gov.br OAuth, Playwright E2E. Part of **Mora Org**.
-- **🗺️ [Travel-Salesman-Problem](https://github.com/Czar210/Travel-Salesman-Problem):** A collection of tools and algorithms implemented to solve the classic TSP.
-- **🃏 [Ze_Pelintra](https://github.com/Czar210/Ze-Pelintra):** A study on Parallel Computing and MCTS applied to the card game "Truco".
-
----
-
-### 📈 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats-theta-hazel-98.vercel.app/api?username=Czar210&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="César's GitHub Stats" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Czar210&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px"/>
-</p>
-
----
-
-### 📫 Connect with me:
-- **LinkedIn:** [linkedin.com/in/cesarsibila](https://linkedin.com/in/cesarsibila)
-- **HuggingFace:** [huggingface.co/Zaras210](https://huggingface.co/Zaras210)
-- **Mora Org:** [github.com/Mora-Org](https://github.com/Mora-Org)
-- **Email:** [cesarsibila210@gmail.com](mailto:cesarsibila210@gmail.com)
-
-*"Turning raw data into strategic intelligence."*
+- **🕵️ [GNN Fake News](https://github.com/Czar210/GNN-Fake-News):** Academic research project (TCC — PUCSP). Fake news detection on Bluesky via network topology, comparing GCN, GAT, and GraphSAGE architectures against textual baselines. Trained on UPFD FakeNewsNet + GossipCop datasets and applied to real AT Protocol firehose data. Includes ablation studies, cross-dataset benchmarks, GNNExplainer interpretability analysis, multilingual topology tests (PT/EN/DE), and a full interface (Next.js + FastAPI + Supabase). Key finding: topology alone reaches F1=0.81 on GossipCop; dual-model rule (textual + topological) hits F1=0.97. Stack: PyTorch Geometric, sentence-transformers, Docker.
+- **📚 [cdia-m7-PUCSP](https://github.com/Czar210
